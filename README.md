@@ -3,6 +3,6 @@
 Entrega de diagramas hechos en draw.io.
 
 ## Diagrama de Contexto
-![Contexto](01_contexto_rpg-Diagrama de Contexto.svg)
+01_contexto_rpg-Diagrama de Contexto.svg
 
 
