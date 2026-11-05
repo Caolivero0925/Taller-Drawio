@@ -6,8 +6,8 @@ Entrega de diagramas hechos en draw.io.
 ![Contexto](01_contexto_rpg-Diagrama%20de%20Contexto.svg)
 
 ## Diagrama de Casos de Uso
-![Casos de uso](02_casos_uso_rpg_drawio.svg)
+![Casos de uso](02_casos_uso_rpg.svg)
 
 ## Diagramas de Actividades
-![Combate CU-07](03_actividades_combate-CU-03 Crear personaje.drawio.svg)
+![Combate CU-07](03_actividades_combate.svg)
 ![Crear Personaje CU-03](03_actividades_combate.svg)
